@@ -106,3 +106,9 @@ int main(){
 
     return 0;//Why do we do this?Any ideas? Do reply.
 }
+
+gcd(){
+    int m,n;
+    m=124;
+    n=84;
+}
