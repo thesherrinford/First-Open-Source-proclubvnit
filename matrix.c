@@ -105,3 +105,12 @@ int main(){
 
     return 0;//Why do we do this?Any ideas? Do reply.
 }
+
+
+gcd(m,n){
+    iashasuish
+        iodjf
+        isdfbuis b
+        
+            uibub
+}
