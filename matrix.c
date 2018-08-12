@@ -108,9 +108,5 @@ int main(){
 
 
 gcd(m,n){
-    iashasuish
-        iodjf
-        isdfbuis b
-        
-            uibub
+   if
 }
